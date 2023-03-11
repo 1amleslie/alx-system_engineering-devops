@@ -1,1 +1,1 @@
-eMoves the file betty from /tmp/ to /tmp/my_first_directory
+eDeletes the file betty in /tmp/my_first_directory
